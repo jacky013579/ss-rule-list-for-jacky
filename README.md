@@ -21,3 +21,7 @@ JP=日本
 
 DOMAIN,google.com   (指定網站）
 DOMAIN-SUFFIX,google.com   (前綴不管是www.或其他的都會納入）
+
+
+    其他待補充
+    
