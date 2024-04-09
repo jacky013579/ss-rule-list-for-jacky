@@ -4,8 +4,8 @@ use by self
 
 設定說明
 
-DIRECT=直連
-RCJECT=屏蔽
+      DIRECT=直連
+      RCJECT=屏蔽
 
 GEOIP
 
